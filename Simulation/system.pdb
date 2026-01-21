@@ -2,14 +2,12 @@ MODEL        1
 HETATM    1   CA M   A   1       0.000   0.000   0.000
 HETATM    2   SC M   A   1       0.000   4.990   0.000
 HETATM    3   CA A   A   2       3.800   0.000   0.000
-HETATM    4   SC A   A   2       3.800   4.420   0.000
+HETATM    4   SC A   A   2       3.800  -4.420   0.000
 HETATM    5   CA S   A   3       7.600   0.000   0.000
 HETATM    6   SC S   A   3       7.600   4.490   0.000
-HETATM    7   CA G   A   4      11.400   0.000   0.000
-HETATM    8   SC G   A   4      11.400   4.150   0.000
+HETATM    7   CA D   A   4      11.400   0.000   0.000
+HETATM    8   SC D   A   4      11.400  -4.690   0.000
 HETATM    9   CA R   A   5      15.200   0.000   0.000
 HETATM   10   SC R   A   5      15.200   5.180   0.000
-HETATM   11   CA P   A   6      19.000   0.000   0.000
-HETATM   12   SC P   A   6      19.000   4.680   0.000
 TER
 END

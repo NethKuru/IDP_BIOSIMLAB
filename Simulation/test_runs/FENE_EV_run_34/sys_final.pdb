@@ -1,0 +1,13 @@
+REMARK   1 CREATED WITH OPENMM 8.1, 2026-01-21
+HETATM    1  CA    M A   1      -1.337   1.382   0.036  1.00  0.00           C  
+HETATM    2  SC    M A   1      -2.876   7.151  -0.010  1.00  0.00           S  
+ATOM      3  CA    A A   2       3.784  -3.128  -0.009  1.00  0.00           C  
+ATOM      4  SC    A A   2       2.920  -7.546   0.003  1.00  0.00           S  
+HETATM    5  CA    S A   3       7.565   2.765   0.066  1.00  0.00           C  
+HETATM    6  SC    S A   3       7.354   7.578   0.053  1.00  0.00           S  
+HETATM    7  CA    D A   4      11.429  -3.338  -0.025  1.00  0.00           C  
+HETATM    8  SC    D A   4      12.393  -8.298  -0.063  1.00  0.00           S  
+HETATM    9  CA    R A   5      16.715   1.570  -0.047  1.00  0.00           C  
+HETATM   10  SC    R A   5      18.368   7.546  -0.008  1.00  0.00           S  
+TER      11        R A   5
+END

@@ -1,15 +1,13 @@
-REMARK   1 CREATED WITH OPENMM 8.1, 2025-12-02
-HETATM    1  CA    M A   1      12.112  -3.079  -6.595  1.00  0.00           C  
-HETATM    2  SC    M A   1      11.068  -0.885 -10.905  1.00  0.00           S  
-ATOM      3  CA    A A   2       9.930  -2.179  -3.524  1.00  0.00           C  
-ATOM      4  SC    A A   2      12.491   0.212  -0.829  1.00  0.00           S  
-HETATM    5  CA    S A   3       8.951   1.585  -3.821  1.00  0.00           C  
-HETATM    6  SC    S A   3       4.785   2.830  -2.963  1.00  0.00           S  
-ATOM      7  CA    G A   4       9.104  -2.020  -2.091  1.00  0.00           C  
-ATOM      8  SC    G A   4      11.375  -0.108   0.291  1.00  0.00           S  
-HETATM    9  CA    R A   5       7.924  -1.847   1.463  1.00  0.00           C  
-HETATM   10  SC    R A   5       6.112   2.414  -1.698  1.00  0.00           S  
-HETATM   11  CA    P A   6      11.545  -0.476   2.218  1.00  0.00           C  
-HETATM   12  SC    P A   6      13.628  -4.808   1.695  1.00  0.00           S  
-TER      13        P A   6
+MODEL        1
+HETATM    1   CA M   A   1       0.000   0.000   0.000
+HETATM    2   SC M   A   1       0.000   5.120   0.000
+HETATM    3   CA A   A   2       3.800   0.000   0.000
+HETATM    4   SC A   A   2       3.800  -4.600   0.000
+HETATM    5   CA S   A   3       7.600   0.000   0.000
+HETATM    6   SC S   A   3       7.600   4.700   0.000
+HETATM    7   CA D   A   4      11.400   0.000   0.000
+HETATM    8   SC D   A   4      11.400  -4.400   0.000
+HETATM    9   CA R   A   5      15.200   0.000   0.000
+HETATM   10   SC R   A   5      15.200   5.200   0.000
+TER
 END
